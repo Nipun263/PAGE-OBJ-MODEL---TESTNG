@@ -1,0 +1,9 @@
+2021-05-07 21:44:40,185 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-07 21:46:20,309 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Com.DummyAutomationProject:MavenTestNGProject:1.0.0-SNAPSHOT @ C:\Projects\DNT DELETE\TestNGMAVENGITPROJECT\Desktop\TestNGMaven\pom.xml.
+2021-05-07 21:46:24,645 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenTestNGProject/src/main/java
+2021-05-07 21:46:24,647 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenTestNGProject/src/test/java
+2021-05-07 21:46:25,622 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2021-05-07 21:46:28,928 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-07 21:46:28,935 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\DNT DELETE\TestNGMAVENGITPROJECT\Desktop\TestNGMaven\src\main\resources
+2021-05-07 21:46:28,936 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-07 21:46:28,944 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projects\DNT DELETE\TestNGMAVENGITPROJECT\Desktop\TestNGMaven\src\test\resources

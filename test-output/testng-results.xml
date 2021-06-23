@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-23T10:43:19Z" name="Suite" finished-at="2021-06-23T10:43:53Z" duration-ms="33799">
+    <groups>
+    </groups>
+    <test started-at="2021-06-23T10:43:19Z" name="Test" finished-at="2021-06-23T10:43:53Z" duration-ms="33799">
+      <class name="com.automationpractice.test.NewUserSignUpTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automationpractice.test.NewUserSignUpTest@69b2283a]" started-at="2021-06-23T16:13:19Z" name="setUp" finished-at="2021-06-23T16:13:39Z" duration-ms="19956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newUserSignUp()[pri:0, instance:com.automationpractice.test.NewUserSignUpTest@69b2283a]" started-at="2021-06-23T16:13:39Z" name="newUserSignUp" finished-at="2021-06-23T16:13:44Z" duration-ms="5674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUserSignUp -->
+        <test-method signature="passUserCredentials()[pri:0, instance:com.automationpractice.test.NewUserSignUpTest@69b2283a]" started-at="2021-06-23T16:13:44Z" name="passUserCredentials" finished-at="2021-06-23T16:13:48Z" duration-ms="3394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passUserCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationpractice.test.NewUserSignUpTest@69b2283a]" started-at="2021-06-23T16:13:48Z" name="tearDown" finished-at="2021-06-23T16:13:53Z" duration-ms="4758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.test.NewUserSignUpTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
